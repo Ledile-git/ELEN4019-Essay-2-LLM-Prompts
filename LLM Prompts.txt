@@ -1,15 +1,26 @@
 Prompt: Hey chat, can you please look through the essay and show grammar mistakes and
 spelling mistake using south African English without changing anything.
+
 Response: There were numerous helpful suggestions provided, like the -z- and -s- confusion for South African English 
+
 Prompt: Looking at the essay, are the sentences well structures, clear and concise
+
 Response: “The ideas are logically presented, and the paragraphs flow smoothly from one to another.”
+
 Prompt: Are the sources properly cited using the ASA citation style?
+
 Response: The references are properly cited in ASA style and consistent
+
 Prompt: Is the tone appropriate for the academic context? Are there any instances of
 informal language that should be revised?
+
 Response: No recommendations were made; the language was found to be formal and
 professional suitable for academic context
+
 Prompt: Are abbreviations and acronyms used consistently and appropriately?
+
 Response: The suggestions I received were not helpful.
+
 Prompt: Is this a good thesis for the essay?
+
 Response: Yes, it's a strong thesis statement that clearly outlines the main argument of your essay.
